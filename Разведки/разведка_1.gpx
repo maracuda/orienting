@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.1.11" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="56.7851811" lon="60.4629002">
+    <ele>288</ele>
+    <time>2022-06-14T13:16:20Z</time>
+    <name>2малыз камня</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7848558" lon="60.4661314">
+    <ele>288</ele>
+    <time>2022-06-14T13:21:27Z</time>
+    <name>3 камня МК и тропа наверх</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7857091" lon="60.4666138">
+    <ele>288</ele>
+    <time>2022-06-14T13:24:37Z</time>
+    <name>беседка</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7868645" lon="60.4647378">
+    <ele>282.8</ele>
+    <time>2022-06-14T13:08:15Z</time>
+    <name>бугорок</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863722" lon="60.4638186">
+    <ele>286</ele>
+    <time>2022-06-14T13:11:39Z</time>
+    <name>визирка лев</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7850926" lon="60.463574">
+    <ele>288</ele>
+    <time>2022-06-14T13:17:30Z</time>
+    <name>камень</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7848018" lon="60.4658271">
+    <ele>288</ele>
+    <time>2022-06-14T13:21:05Z</time>
+    <name>камень мал</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7859959" lon="60.4657007">
+    <ele>288</ele>
+    <time>2022-06-14T12:59:39Z</time>
+    <name>канава слева</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7864632" lon="60.465786">
+    <ele>285</ele>
+    <time>2022-06-14T13:03:00Z</time>
+    <name>канава справа вниз</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7862431" lon="60.4658014">
+    <ele>285</ele>
+    <time>2022-06-14T13:01:26Z</time>
+    <name>лев начало сухой канавы сзади</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7867761" lon="60.4644778">
+    <ele>283.2</ele>
+    <time>2022-06-14T13:09:00Z</time>
+    <name>лев потеряшка по беседка</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7869395" lon="60.4649412">
+    <ele>282.8</ele>
+    <time>2022-06-14T13:06:37Z</time>
+    <name>лев тропа и направо</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица 14, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7866729" lon="60.4642655">
+    <ele>285</ele>
+    <time>2022-06-14T13:09:54Z</time>
+    <name>перес сух кан</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7862537" lon="60.4637526">
+    <ele>286</ele>
+    <time>2022-06-14T13:12:22Z</time>
+    <name>перес троп</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.785838" lon="60.4633625">
+    <ele>288</ele>
+    <time>2022-06-14T13:13:53Z</time>
+    <name>перес тропы</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7868767" lon="60.4647625">
+    <ele>282.8</ele>
+    <time>2022-06-14T13:07:18Z</time>
+    <name>пересечение тропы</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица 14, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7870447" lon="60.4660808">
+    <ele>285</ele>
+    <time>2022-06-14T13:04:40Z</time>
+    <name>поляна большая 10м</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7857585" lon="60.4658909">
+    <ele>288</ele>
+    <time>2022-06-14T12:58:19Z</time>
+    <name>потеряшка</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7861242" lon="60.4659229">
+    <ele>285</ele>
+    <time>2022-06-14T13:00:20Z</time>
+    <name>потеряшка пр и микрополяна</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7856593" lon="60.4658996">
+    <ele>288</ele>
+    <time>2022-06-14T12:54:18Z</time>
+    <name>семейка 5</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7859292" lon="60.4633961">
+    <ele>288</ele>
+    <time>2022-06-14T13:13:22Z</time>
+    <name>справа потер</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7856355" lon="60.4658885">
+    <ele>288</ele>
+    <time>2022-06-14T12:55:49Z</time>
+    <name>старт поляна 7м диаметр 5 скамеек</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7848829" lon="60.4650913">
+    <ele>288</ele>
+    <time>2022-06-14T13:20:01Z</time>
+    <name>сух кан лев</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7850446" lon="60.4636879">
+    <ele>288</ele>
+    <time>2022-06-14T13:18:12Z</time>
+    <name>сухкан</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7852054" lon="60.4663924">
+    <ele>288</ele>
+    <time>2022-06-14T13:22:33Z</time>
+    <name>тропа вниз лев</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7850057" lon="60.4637886">
+    <ele>288</ele>
+    <time>2022-06-14T13:18:34Z</time>
+    <name>тропа лев</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7848541" lon="60.4652341">
+    <ele>288</ele>
+    <time>2022-06-14T13:20:26Z</time>
+    <name>тропа лев (1)</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863332" lon="60.4657757">
+    <ele>285</ele>
+    <time>2022-06-14T13:02:16Z</time>
+    <name>тропа налево</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7865692" lon="60.4640245">
+    <ele>286</ele>
+    <time>2022-06-14T13:10:34Z</time>
+    <name>тропа прав</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7853633" lon="60.4627787">
+    <ele>288</ele>
+    <time>2022-06-14T13:15:20Z</time>
+    <name>тропа прав лев</name>
+    <type>разведка 1</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

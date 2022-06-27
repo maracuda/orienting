@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.2.5" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+    <time>2022-06-27T16:25:38Z</time>
+  </metadata>
+  <wpt lat="56.7851477" lon="60.4702264">
+    <ele>290.5</ele>
+    <time>2022-06-16T14:49:18Z</time>
+    <name>арка вход</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>улица Евгения Савкова 60, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7850744" lon="60.4694518">
+    <ele>296</ele>
+    <time>2022-06-16T14:51:06Z</time>
+    <name>беседка поляна</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7860271" lon="60.4696454">
+    <time>2022-06-16T14:55:26Z</time>
+    <name>беседка поляна 20м</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7851928" lon="60.4700754">
+    <ele>290.5</ele>
+    <time>2022-06-16T14:49:42Z</time>
+    <name>больш перекр</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>улица Евгения Савкова 60, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.785564" lon="60.4702098">
+    <ele>290.2</ele>
+    <time>2022-06-16T14:57:47Z</time>
+    <name>большая тропа</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>улица Евгения Савкова 60, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863087" lon="60.4701376">
+    <ele>287</ele>
+    <time>2022-06-16T15:00:03Z</time>
+    <name>большая тропа 2 малыш направо</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.785777" lon="60.4702701">
+    <ele>288.8</ele>
+    <time>2022-06-16T14:59:08Z</time>
+    <name>большая тропа (1)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7858309" lon="60.4681083">
+    <ele>296</ele>
+    <time>2022-06-16T15:07:00Z</time>
+    <name>большая тропа (2)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7866732" lon="60.468333">
+    <ele>287.2</ele>
+    <time>2022-06-16T15:11:32Z</time>
+    <name>большая тропа перекресток с малой</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/2, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7852678" lon="60.4700756">
+    <ele>290.2</ele>
+    <time>2022-06-16T14:58:21Z</time>
+    <name>большой перекресток</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>улица Евгения Савкова 60, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7861117" lon="60.4706727">
+    <time>2022-06-16T14:56:23Z</time>
+    <name>вход с дороги</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7860155" lon="60.4706631">
+    <time>2022-06-16T14:56:50Z</time>
+    <name>вход с тротуар</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7866788" lon="60.4691204">
+    <ele>286.8</ele>
+    <time>2022-06-16T15:10:06Z</time>
+    <name>выход из парка</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7865271" lon="60.470305">
+    <ele>286.2</ele>
+    <time>2022-06-16T15:01:52Z</time>
+    <name>горка выход на тротуар</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7858788" lon="60.4694052">
+    <time>2022-06-16T14:54:58Z</time>
+    <name>мал троп</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7858726" lon="60.4704071">
+    <time>2022-06-16T14:57:19Z</time>
+    <name>малая тропа</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863405" lon="60.4704269">
+    <ele>287</ele>
+    <time>2022-06-16T15:00:31Z</time>
+    <name>малая тропа (1)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7864478" lon="60.4698991">
+    <ele>287</ele>
+    <time>2022-06-16T15:02:52Z</time>
+    <name>малая тропа (2)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7862558" lon="60.4698746">
+    <ele>287</ele>
+    <time>2022-06-16T15:03:26Z</time>
+    <name>малая тропа (3)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7860072" lon="60.4678834">
+    <ele>286.8</ele>
+    <time>2022-06-16T15:07:52Z</time>
+    <name>малая тропа (4)</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7852348" lon="60.4692657">
+    <ele>296</ele>
+    <time>2022-06-16T14:50:36Z</time>
+    <name>перекр сред</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7860782" lon="60.4702413">
+    <time>2022-06-16T14:59:34Z</time>
+    <name>перекресток большой</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.786166" lon="60.4679823">
+    <ele>286.8</ele>
+    <time>2022-06-16T15:08:05Z</time>
+    <name>перекресток мала</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7861467" lon="60.4696628">
+    <time>2022-06-16T15:04:06Z</time>
+    <name>перекресток малыш</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863891" lon="60.4698079">
+    <ele>287</ele>
+    <time>2022-06-16T15:12:51Z</time>
+    <name>поляна 4 метра</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7864678" lon="60.4687906">
+    <ele>286</ele>
+    <time>2022-06-16T15:09:07Z</time>
+    <name>поляна 4 метра перекресток мал</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/2, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7862057" lon="60.4683538">
+    <ele>286</ele>
+    <time>2022-06-16T15:08:31Z</time>
+    <name>поляна 7м</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7859383" lon="60.4677121">
+    <ele>296</ele>
+    <time>2022-06-16T15:07:20Z</time>
+    <name>поляна скамейки 15м</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7857842" lon="60.4700744">
+    <time>2022-06-16T15:14:36Z</time>
+    <name>та же тропа</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7847086" lon="60.4692096">
+    <ele>296</ele>
+    <time>2022-06-16T14:52:28Z</time>
+    <name>типа сред</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7864779" lon="60.4689102">
+    <ele>286</ele>
+    <time>2022-06-16T15:11:04Z</time>
+    <name>треугольник из топ</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Currently recording track</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7844808" lon="60.4702035">
+    <ele>296</ele>
+    <time>2022-06-16T14:47:52Z</time>
+    <name>троп мал</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7854152" lon="60.4690663">
+    <ele>296</ele>
+    <time>2022-06-16T14:53:59Z</time>
+    <name>тропа больше</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7851902" lon="60.4695977">
+    <ele>290.2</ele>
+    <time>2022-06-16T14:51:32Z</time>
+    <name>тропа среда</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7852911" lon="60.4696943">
+    <ele>290.2</ele>
+    <time>2022-06-16T14:50:07Z</time>
+    <name>тропа среда лев</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near улица Евгения Савкова, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7857951" lon="60.469414">
+    <time>2022-06-16T14:54:32Z</time>
+    <name>турники поляна 10м</name>
+    <type>разведка 16.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ff5020</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="разведка 16.06" color="#ff5020" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

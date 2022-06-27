@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.2.5" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+    <time>2022-06-27T16:25:56Z</time>
+  </metadata>
+  <wpt lat="56.7860429" lon="60.46671">
+    <ele>288</ele>
+    <time>2022-06-26T12:53:16Z</time>
+    <name>большая тропа</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7856749" lon="60.4665762">
+    <ele>288</ele>
+    <time>2022-06-26T12:49:53Z</time>
+    <name>вулкан</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7869975" lon="60.4673725">
+    <ele>283</ele>
+    <time>2022-06-26T12:33:48Z</time>
+    <name>высокий выход из парка</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7868406" lon="60.4672334">
+    <ele>283</ele>
+    <time>2022-06-26T12:34:29Z</time>
+    <name>камень плита бетона</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7869885" lon="60.4668783">
+    <ele>283</ele>
+    <time>2022-06-26T12:32:01Z</time>
+    <name>кормушка</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7869461" lon="60.4673497">
+    <ele>283</ele>
+    <time>2022-06-26T12:33:30Z</time>
+    <name>кормушка (1)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7857691" lon="60.4677832">
+    <ele>296</ele>
+    <time>2022-06-26T12:40:18Z</time>
+    <name>кормушка (2)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7864579" lon="60.4681848">
+    <ele>286.8</ele>
+    <time>2022-06-26T12:37:32Z</time>
+    <name>малая тропа</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/2, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7849832" lon="60.4667766">
+    <ele>296</ele>
+    <time>2022-06-26T12:44:13Z</time>
+    <name>малая тропа (1)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7852579" lon="60.4660551">
+    <ele>288</ele>
+    <time>2022-06-26T12:46:57Z</time>
+    <name>малая тропа (2)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7868996" lon="60.464301">
+    <ele>283.2</ele>
+    <time>2022-06-26T12:58:50Z</time>
+    <name>малая тропа (3)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7867576" lon="60.4675553">
+    <ele>283</ele>
+    <time>2022-06-26T12:35:25Z</time>
+    <name>малая тропа слева</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7855007" lon="60.4654032">
+    <time>2022-06-26T13:06:11Z</time>
+    <name>музея канава</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.785457" lon="60.4656376">
+    <ele>288</ele>
+    <time>2022-06-26T12:47:49Z</time>
+    <name>перекресток</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7867985" lon="60.4672493">
+    <ele>283</ele>
+    <time>2022-06-26T12:33:04Z</time>
+    <name>перекресток им с мал</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.78634" lon="60.4671782">
+    <ele>283</ele>
+    <time>2022-06-26T12:54:06Z</time>
+    <name>поляна 4м</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.787088" lon="60.4661063">
+    <ele>285</ele>
+    <time>2022-06-26T12:29:59Z</time>
+    <name>поляна большая 15м</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица 14, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.786829" lon="60.4634397">
+    <ele>285</ele>
+    <time>2022-06-26T12:59:53Z</time>
+    <name>ров</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7867225" lon="60.4634404">
+    <time>2022-06-26T13:00:38Z</time>
+    <name>ров (1)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7851097" lon="60.4670411">
+    <ele>296</ele>
+    <time>2022-06-26T12:43:26Z</time>
+    <name>столб</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7870039" lon="60.4663705">
+    <ele>285</ele>
+    <time>2022-06-26T12:31:08Z</time>
+    <name>тропа больше</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Терновый переулок 8/3, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7863804" lon="60.4632728">
+    <ele>286</ele>
+    <time>2022-06-26T13:01:32Z</time>
+    <name>тропа сал</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7862005" lon="60.4638636">
+    <ele>286</ele>
+    <time>2022-06-26T13:02:33Z</time>
+    <name>тропа сал (1)</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Майская улица, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7855759" lon="60.4676743">
+    <ele>296</ele>
+    <time>2022-06-26T12:41:42Z</time>
+    <name>яма туалет</name>
+    <type>26.06</type>
+    <extensions>
+      <osmand:address>Near Терновый переулок, Мичуринский</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="26.06" color="#eecc22" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
